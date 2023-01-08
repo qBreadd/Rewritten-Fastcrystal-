@@ -1,0 +1,10 @@
+plugins {
+    id 'java'
+}
+
+group 'net.bread.fastcrystals'
+version '1.7'
+
+repositories {
+    mavenCentral()
+}
