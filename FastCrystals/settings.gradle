@@ -1,0 +1,3 @@
+rootProject.name = 'FastCrystals'
+include 'fast-crystals-plugin-1.18'
+
